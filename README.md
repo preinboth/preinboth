@@ -1,6 +1,8 @@
 ### Hi there 👋
 
+<!-- 
 [📑 PersonalPage](https://preinboth.github.io/)
+-->
 
 <br>
 
