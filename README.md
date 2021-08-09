@@ -6,7 +6,7 @@
 
 <br>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=preinboth&show_icons=truetheme=chartreuse-dark&count_private=true&theme=dark&custom_title=Stats)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=preinboth&show_icons=truetheme=merko&count_private=true&theme=dark&custom_title=Stats)
 
 <!--
 **preinboth/preinboth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
